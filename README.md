@@ -1,5 +1,5 @@
 ### Greetings. This is Md. Ahasan Habib Sami
-(https://media.licdn.com/dms/image/v2/D5603AQHr8BvY5jGcng/profile-displayphoto-shrink_800_800/B56ZT0Lp.THQAc-/0/1739263484436?e=1758153600&v=beta&t=pRdZUibtj-J_HpZNGse8XHFsGkU04k9z6FZTTKXCbAw)
+https://media.licdn.com/dms/image/v2/D5603AQHr8BvY5jGcng/profile-displayphoto-shrink_800_800/B56ZT0Lp.THQAc-/0/1739263484436?e=1758153600&v=beta&t=pRdZUibtj-J_HpZNGse8XHFsGkU04k9z6FZTTKXCbAw
 #### AI developer and Software Automation Engineer passionate about solving complex problems with code.
 ![AI developer and Software Automation Engineer passionate about solving complex problems with code.]
 
