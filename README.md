@@ -1,4 +1,4 @@
-### Hi there 👋, This is Md. Ahasan Habib Sami
+### Greetings, This is Md. Ahasan Habib Sami
 #### AI developer and Software Automation Engineer passionate about solving complex problems with code.
 🤖 AI & Research: Build, train, and evaluate machine learning models in Python for cutting-edge projects.
 
