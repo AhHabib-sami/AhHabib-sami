@@ -1,7 +1,5 @@
-### Greetings , This is Md. Ahasan Habib Sami
+### Hi there 👋, This is Md. Ahasan Habib Sami
 #### AI developer and Software Automation Engineer passionate about solving complex problems with code.
-![AI developer and Software Automation Engineer passionate about solving complex problems with code.](https://media.licdn.com/dms/image/v2/D5603AQHr8BvY5jGcng/profile-displayphoto-shrink_800_800/B56ZT0Lp.THQAc-/0/1739263484436?e=1758153600&v=beta&t=pRdZUibtj-J_HpZNGse8XHFsGkU04k9z6FZTTKXCbAw)
-
 🤖 AI & Research: Build, train, and evaluate machine learning models in Python for cutting-edge projects.
 
 🛠 Automation Expertise: Design and execute automated testing workflows using Selenium, Playwright, and Postman.
@@ -21,7 +19,7 @@ Skills: PYTHON/C/C++/JAVA/R/NODE JS
 - ⚡ Fun fact: I’ve automated more tests than I’ve taken in school. 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AhHabib-sami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahsan--habib/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ahsan.habib.947773)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/an___ahsan/)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
